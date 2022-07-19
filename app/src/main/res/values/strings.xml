@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="new_note">New Note</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="image_url">Image URL</string>
+    <string name="with_image">with image</string>
+    <string name="save">Save</string>
+</resources>
